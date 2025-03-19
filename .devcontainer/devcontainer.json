@@ -1,3 +1,4 @@
+
 {
   "customizations": {
     "codespaces": {
@@ -12,11 +13,9 @@
       },
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "GitHub.github-vscode-theme",
-        "esbenp.prettier-vscode",
-        "dbaeumer.vscode-eslint",
-        "ritwickdey.LiveServer",
-        "stylelint.vscode-stylelint"
+        "linkedinlearning.linkedinlearning-vscode-theme",
+        "ms-toolsai.jupyter",
+        "ms-python.python"
         // Additional Extensions Here
       ]
     }
